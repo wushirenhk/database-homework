@@ -31,7 +31,7 @@
 					    	<h1 class="col-md-5">学生名单管理</h1>
 							<form class="bs-example bs-example-form col-md-5" role="form" style="margin: 20px 0 10px 0;" action="/admin/selectStudent" id="form1" method="post">
 								<div class="input-group">
-									<input type="text" class="form-control" placeholder="请输入姓名" name="findByName">
+									<input type="text" class="form-control" placeholder="请输入学生姓名" name="findByName">
 									<span class="input-group-addon btn" id="sub">搜索</span>
 								</div>
 							</form>
